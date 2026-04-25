@@ -6,9 +6,9 @@ I use this GitHub profile as a compact portfolio of selected research, applied m
 
 ## Portfolio
 
-- **Research** — independent pre-university research projects with papers, presentations, project videos, and certificates.
-- **Applied Machine Learning** — applied projects involving data analysis, LLM applications, predictive modeling, and current ML work.
-- **Academic Foundations** — selected university coursework in mathematics, algorithms, and programming: [academic-foundations](https://github.com/zilbi/academic-foundations).
+- **Research Projects** — [selected independent research projects](https://github.com/zilbi/research-projects).
+- **Applied AI Projects** — applied projects involving LLM applications, predictive modeling, data analysis, and current ML work.
+- **Academic Foundations** — [selected university coursework in mathematics, algorithms, and programming](https://github.com/zilbi/academic-foundations).
 
 ## Current Focus
 
