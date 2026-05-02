@@ -10,10 +10,6 @@ This GitHub profile serves as a technical portfolio reflecting the background, s
 - **Applied AI Projects** — [selected AI and ML projects](https://github.com/zilbi/applied-ai-projects).
 - **Academic Foundations** — [selected university coursework in mathematics, algorithms, and programming](https://github.com/zilbi/academic-foundations).
 
-## Current Focus
+## Direction
 
-Applied machine learning, data analysis, algorithms, and research-oriented AI systems.
-
-## Status
-
-This portfolio is currently being organized and expanded.
+My chosen development path is to become an engineer-researcher focused on designing reliable systems that integrate different AI technologies into practical real-world solutions.
