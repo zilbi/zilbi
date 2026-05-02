@@ -2,7 +2,7 @@
 
 First-year BSc student in Applied Data Analysis and Artificial Intelligence at HSE University.
 
-I use this GitHub profile as a compact portfolio of selected research, applied machine learning, and university coursework.
+This GitHub profile serves as a technical portfolio reflecting the background, skills, and knowledge base I build on.
 
 ## Portfolio
 
