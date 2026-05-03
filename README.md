@@ -8,7 +8,7 @@ This GitHub profile serves as a technical portfolio reflecting the background, s
 
 - **Research Projects** — [scientific work in climate change studies and applied biotechnology](https://github.com/zilbi/research-projects)
 - **Applied AI Projects** — [development in intelligent planning and aerospace predictive analytics](https://github.com/zilbi/applied-ai-projects)
-- **Academic Foundations** — [university coursework in mathematics, algorithms, and programming](https://github.com/zilbi/academic-foundations).
+- **Academic Foundations** — [university preparation in mathematics, algorithms, and programming](https://github.com/zilbi/academic-foundations)
 
 ## Direction
 
